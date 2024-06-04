@@ -65,12 +65,12 @@ Texto Texto Texto 'Texto' Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 #### Texto en cursiva (ITALIC)
 Para poder poner el texto en cursiva este debera ser encerrado entre dobles **
 EJEMPLO:
-Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto*' Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 
 #### Texto en negrita cursiva (BOLD/ITALIC)
-Para poder poner el texto en negrita y ademas en cursiva este debera ser encerrado entre tiples ___ ___
+Para poder poner el texto en negrita y ademas en cursiva este debera ser encerrado entre dobles __ __
 EJEMPLO:
-Texto Texto Texto ____Texto___ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ___Texto___ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+Texto Texto Texto ___Texto__ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto __Texto__ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 
