@@ -9,10 +9,10 @@ Markdown es el estandar utilizado por Git y Github, para maquetar la documentaci
 Para poder realizar una buena documentacion del proyecto debemos, distribuir correctamente el contenido, para poder delimitar o hacer enfasis (enfatizar), es deir resaltar las secciones importantes, podemos utilizar los siguientes:
 
 EJEMPLOS:
-# Encabezadi de Nivel 1 - Similar a H1 en HTML
-## Encabezadi de Nivel 2 - Similar a H2 en HTML
-### Encabezadi de Nivel 3 - Similar a H3 en HTML
-#### Encabezadi de Nivel 4 - Similar a H4 en HTML
-##### Encabezadi de Nivel 5 - Similar a H5 en HTML
-###### Encabezadi de Nivel 6 - Similar a H6 en HTML
-####### Encabezadi de Nivel 7 - Solo 6 niveles son permitidos dentro de la sintaxis, a partir de este el maquetado sera ignorado
+# Encabezado de Nivel 1 - Similar a H1 en HTML
+## Encabezado de Nivel 2 - Similar a H2 en HTML
+### Encabezado de Nivel 3 - Similar a H3 en HTML
+#### Encabezado de Nivel 4 - Similar a H4 en HTML
+##### Encabezado de Nivel 5 - Similar a H5 en HTML
+###### Encabezado de Nivel 6 - Similar a H6 en HTML
+####### Encabezado de Nivel 7 - Solo 6 niveles son permitidos dentro de la sintaxis, a partir de este el maquetado sera ignorado
