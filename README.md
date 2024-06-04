@@ -1,3 +1,4 @@
+
 # Integradora-Practica-3A
 
 En esta practica aprenderemos a utilizar las herramientas de Git y Github para el control de Versiones, Documentacion, Desarrollo Colaborativo y Respaldo del Proyecto Integrador para la asignatura de Integradora I
@@ -29,6 +30,7 @@ EJEMPLO:
 Son utilizafos para poder presentar grandes secciones de texto que describen deetalladamentelas secciones de la documentacion del proyecto
 
 EJEMPLOS:
+
 Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1.
 
 <p>
