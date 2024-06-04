@@ -22,3 +22,23 @@ Si se desea marcar una separacion mas visual de contenidos podemos utilixarlos i
 
 EJEMPLO:
 ---
+
+"Esto es similar a un tag de <HR> en HTML.
+
+### 3. Párrafos (Paragraphs)
+Son utilizafos para poder presentar grandes secciones de texto que describen deetalladamentelas secciones de la documentacion del proyecto
+
+EJEMPLOS:
+<p align = right>
+Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. </p>
+
+<p align = center>
+Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2.  </p>
+
+<p align = left>
+Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. </p>
+
+<p align = justify>
+Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. </p>
+
+Lo que en una pagina utilizariamos la etiqueta < P >
