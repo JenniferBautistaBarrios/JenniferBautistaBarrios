@@ -38,15 +38,19 @@ Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto
 
 Lo que en una pagina utilizariamos la etiqueta < P >
 
+tambien podemos aplicar estilos de alineacion:
+
 <p align = left>
-Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. </p>
+Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). 
+Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). 
+Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho).  </p>
 
 <p align = center>
-Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2.  </p>
+Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado).   </p>
 
 <p align = right>
-Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. </p>
+Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo).  </p>
 
 <p align = justify>
-Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. </p>
+Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado).  </p>
 
