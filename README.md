@@ -54,3 +54,23 @@ Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3
 <p align = justify>
 Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado).  </p>
 
+### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+Si el texto que deseamos enfatizar se encuentra en un parrafo podemos utilizar algunos trucos para ubicarlos en la documentación
+
+#### Texto en negrita (BOLD)
+Para poder poner el texto en negrita este debera ser encerrado entre dobles ''
+EJEMPLO:
+Texto Texto Texto 'Texto' Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 'Texto' Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+#### Texto en cursiva (ITALIC)
+Para poder poner el texto en cursiva este debera ser encerrado entre dobles **
+EJEMPLO:
+Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto*' Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+
+#### Texto en negrita cursiva (BOLD/ITALIC)
+Para poder poner el texto en negrita y ademas en cursiva este debera ser encerrado entre tiples ___ ___
+EJEMPLO:
+Texto Texto Texto ____Texto___ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ___Texto___ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+
