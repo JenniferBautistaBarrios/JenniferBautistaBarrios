@@ -34,7 +34,19 @@ EJEMPLOS:
 Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1.
 
 <p>
-Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. </p>
+Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2.  </p>
 
 Lo que en una pagina utilizariamos la etiqueta < P >
+
+<p align = left>
+Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. </p>
+
+<p align = center>
+Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2.  </p>
+
+<p align = right>
+Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. Este texto pretenece al Parrafo 3. </p>
+
+<p align = justify>
+Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. Este texto pretenece al Parrafo 4. </p>
 
