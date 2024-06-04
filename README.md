@@ -58,22 +58,22 @@ Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo
 Si el texto que deseamos enfatizar se encuentra en un parrafo podemos utilizar algunos trucos para ubicarlos en la documentación
 
 #### Texto en negrita (BOLD)
-Para poder poner el texto en negrita este debera ser encerrado entre dobles ''.
+Para poder poner el texto en negrita este debera ser encerrado entre dos *.
 
 EJEMPLO:
-Texto Texto Texto 'Texto' Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 'Texto' Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 #### Texto en cursiva (ITALIC)
-Para poder poner el texto en cursiva este debera ser encerrado entre dobles **
+Para poder poner el texto en cursiva este debera ser encerrado entre dobles **.
 
 EJEMPLO:
 Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 
 #### Texto en negrita cursiva (BOLD/ITALIC)
-Para poder poner el texto en negrita y ademas en cursiva este debera ser encerrado entre dobles __ __
+Para poder poner el texto en negrita y ademas en cursiva este debera ser encerrado entre triples ***.
 
 EJEMPLO:
-Texto Texto Texto __Texto__ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto __Texto__ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 
