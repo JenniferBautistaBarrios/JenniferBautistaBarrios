@@ -79,6 +79,6 @@ Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Te
 #### Subrayado (UNDERLINE)
 Algunas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo estándar de HTMl usando el tag / y cerrando con /
 
-Ejemplo Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto _Texto Texto Texto_ Texto Texto Texto Texto Texto Texto
+Ejemplo Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Texto Texto</ins> Texto Texto Texto Texto Texto Texto
 
 
