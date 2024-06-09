@@ -107,7 +107,8 @@ Ejemplo: Pasos para Instalar la Base de Datos
 ### 6. Listas Ordenadas y Listas Desordenadas
 Si en nuestra documentación necesitamos incluir información en modo de lista, un elemneto tras otro, podemos hacerlo utilizando los números con un punto decimal si las deseamos ordenadas con un guión medio - si solo queremos una viñeta.
 
-Ejemplo Para crear tu primer repositorio en GitHub deberás:
+Ejemplo: 
+Para crear tu primer repositorio en GitHub deberás:
 
 1. Contar con cuneta HitHub.
 2. Dar click en el boton: *Nuevo repositorio
@@ -122,4 +123,19 @@ Ejemplo Para crear tu primer repositorio en GitHub deberás:
 ### 7. Ligas(Hipervínvulos)
 Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y que se maquetan utilizando los corchetes [], inmediatamente despues pondrémos la liga de referencia entre parentesis ().
 
-Ejemplo: Mi buscador favorito es: [Google]().
+Ejemplo: 
+Mi buscador favorito es: [Google](https://www.google.com/).
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos < >
+
+Ejemplo: 
+Documentación creada por: _**Jennifer Bautista Barrios**_
+
+<230317@utxicotepec.edu.mx>
+
+### 8. Imágenes
+Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imágen. Luego escribe el vinculo de la imágen entre paréntesis ().
+![Imagen demostrativa](https://i.pinimg.com/736x/91/93/b1/9193b1011e9954b3f062181a6829351e.jpg)
+
+GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
+
