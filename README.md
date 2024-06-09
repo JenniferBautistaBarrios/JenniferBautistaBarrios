@@ -88,7 +88,18 @@ Continuamos con los comandos básicos de Git y GitHub para el maquetado de la do
 Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (/>)
 
 EJEMPLO:
-> Para listar las carpetas y archivos desde una terminal de sistemas operativos Windows debemos ingresar el comando: c:dir Después oprimimos la tecla "Enter".
+Para listar las carpetas y archivos desde una terminal de sistemas operativos Windows debemos ingresar el comando: c:dir Después oprimimos la tecla "Enter".
 
+> Aquí se ingresa un conjunto de instrucciones para explicar al usuario, como instalar el software que hemos diseñado.
 
+También podemos ingresar textos multilínea
 
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+Ejemplo: Pasos para Instalar la Base de Datos
+
+> - Descargar MySQL Server del Sitio Oficial
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario root
+> - Descargamos el archivo de respaldo de la base de datos (.sql)
+> - Restauramos la Base de Datos Usando el comando *MySQL *
+> - c:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password<respaldo.sql
