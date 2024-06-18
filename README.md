@@ -210,8 +210,6 @@ Ejemplo:
 Documentación creada por: _**Jennifer Bautista Barrios**_
 
 <230317@utxicotepec.edu.mx>
-
-### 8. Imágenes
 Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imágen. Luego escribe el vinculo de la imágen entre paréntesis ().
 ![Imagen demostrativa](https://i.pinimg.com/736x/91/93/b1/9193b1011e9954b3f062181a6829351e.jpg)
 
