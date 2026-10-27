@@ -1,27 +1,40 @@
-<!--
-  README DE PERFIL DE GITHUB · versión 4
-  ---------------------------------------------------------
-  Busca la palabra USUARIO y reemplázala por tu usuario de GitHub.
-  Revisa la sección de habilidades: deja solo lo que realmente usas.
--->
+<!-- Reemplaza la palabra USUARIO por tu usuario de GitHub (busca y reemplaza todas) -->
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Jennifer Bautista Barrios, estudiante de Integradora I" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1D4ED8&height=220&section=header&text=Jennifer%20Bautista%20Barrios&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudiante%20de%20Integradora%20I%20en%20la%20UT%20Xicotepec&descSize=18&descAlignY=60" alt="Jennifer Bautista Barrios" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Aprendiendo+Git+%26+GitHub;Documentando+con+Markdown;Construyendo+mi+Proyecto+Integrador;Abierta+a+colaborar" alt="Texto animado" />
 
 <h3>Hola, soy Jennifer 👋</h3>
 
 <p>Estudiante de la Universidad Tecnológica de Xicotepec de Juárez,<br>en crecimiento y apasionada por aprender.</p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-USUARIO-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USUARIO)
+[![Correo](https://img.shields.io/badge/Correo-230317%40utxicotepec.edu.mx-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:230317@utxicotepec.edu.mx)
+![Seguidores](https://img.shields.io/github/followers/USUARIO?style=for-the-badge&logo=github&color=0EA5E9&label=Seguidores)
+![Visitas](https://komarev.com/ghpvc/?username=USUARIO&label=Visitas&color=0EA5E9&style=for-the-badge)
+
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+---
 
 <h2 align="center">Sobre mí</h2>
 
-<img src="./assets/about.svg" alt="Terminal con información sobre mí" width="100%"/>
+```text
+$ whoami
+Jennifer Bautista Barrios, estudiante de Integradora I
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+$ cat sobre-mi.txt
+estudio:      Universidad Tecnológica de Xicotepec de Juárez
+aprendo:      Git, GitHub, Markdown y MySQL
+trabajo en:   Mi Proyecto Integrador
+me interesa:  Colaborar y practicar el trabajo en equipo
+
+$ _
+```
+
+---
 
 <h2 align="center">Habilidades</h2>
 
@@ -64,7 +77,7 @@
 </table>
 
 <!--
-  ¿Quieres agregar más tecnologías? Copia una línea de estas y pégala en la categoría que quieras:
+  Más tecnologías para copiar y pegar en la categoría que quieras:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -75,19 +88,27 @@
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 -->
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+---
+
+<h2 align="center">Mi camino con Git</h2>
+
+```mermaid
+gitGraph
+    commit id: "Inicio"
+    branch documentacion
+    checkout documentacion
+    commit id: "Markdown"
+    commit id: "Practicas"
+    checkout main
+    merge documentacion
+    commit id: "Proyecto Integrador"
+```
+
+---
 
 <h2 align="center">Mi actividad en GitHub</h2>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USUARIO/USUARIO/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USUARIO/USUARIO/output/snake.svg" />
-  <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/USUARIO/USUARIO/output/snake-dark.svg" width="100%" />
-</picture>
-
-<br><br>
 
 <img height="185" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=1F6FEB&border_radius=12&count_private=true&include_all_commits=true&locale=es" alt="Estadísticas de GitHub" />
 <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=donut&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=1F6FEB&border_radius=12&locale=es" alt="Lenguajes más usados" />
@@ -96,17 +117,25 @@
 
 <img src="https://streak-stats.demolab.com?user=USUARIO&background=0D1117&border=1F6FEB&ring=38BDF8&fire=0EA5E9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de contribuciones" />
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USUARIO&bg_color=0D1117&color=38BDF8&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=12&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" width="100%" />
+
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+---
 
 <h2 align="center">Proyecto destacado</h2>
 
+<div align="center">
+
 <a href="https://github.com/USUARIO/Integradora-Practica-3A">
-  <img src="./assets/project.svg" alt="Integradora-Practica-3A: documentación con Markdown, Git y GitHub" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=Integradora-Practica-3A&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=1F6FEB&border_radius=12" alt="Integradora-Practica-3A" />
 </a>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+</div>
+
+---
 
 <h2 align="center">Redes sociales</h2>
 
@@ -122,13 +151,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
 -->
 
-![Seguidores](https://img.shields.io/github/followers/USUARIO?style=flat-square&logo=github&color=0EA5E9&label=Seguidores)
-![Visitas](https://komarev.com/ghpvc/?username=USUARIO&label=Visitas&color=0EA5E9&style=flat-square)
-
 <br>
 
 <h3><i>Aprender haciendo, documentando y compartiendo.</i></h3>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1D4ED8&height=110&section=footer" alt="Pie de página" width="100%"/>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+</div>
