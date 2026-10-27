@@ -1,217 +1,457 @@
+<div align="center">
 
-# Integradora-Practica-3A
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Integradora%20I&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Pr%C3%A1ctica%203A%20%7C%20Git%20y%20GitHub%20%7C%20Markdown&descSize=18&descAlignY=72" alt="Encabezado Integradora I" width="100%"/>
 
-En esta practica aprenderemos a utilizar las herramientas de Git y Github para el control de Versiones, Documentacion, Desarrollo Colaborativo y Respaldo del Proyecto Integrador para la asignatura de Integradora I
-
-## Comandos Básicos para la Documentación, utilizando el estandar se Markdown (md)
-Markdown es el estandar utilizado por Git y Github, para maquetar la documentacion de proyectos, lo que permite a usuarios y colaboradores del proyecto entender el contexto y operacion del mismo
-
-### 1. Encabezados o Titulos (Headers)
-Para poder realizar una buena documentacion del proyecto debemos, distribuir correctamente el contenido, para poder delimitar o hacer enfasis (enfatizar), es deir resaltar las secciones importantes, podemos utilizar los siguientes:
-
-EJEMPLOS:
-# Encabezado de Nivel 1 - Similar a H1 en HTML
-## Encabezado de Nivel 2 - Similar a H2 en HTML
-### Encabezado de Nivel 3 - Similar a H3 en HTML
-#### Encabezado de Nivel 4 - Similar a H4 en HTML
-##### Encabezado de Nivel 5 - Similar a H5 en HTML
-###### Encabezado de Nivel 6 - Similar a H6 en HTML
-####### Encabezado de Nivel 7 - Solo 6 niveles son permitidos dentro de la sintaxis, a partir de este el maquetado sera ignorado
-
-### 2. Separadores (SEPARATORS)
-Si se desea marcar una separacion mas visual de contenidos podemos utilixarlos indicando tres caracteres de "-" continuos en el maquetado
-
-EJEMPLO:
----
-
-"Esto es similar a un tag de <HR> en HTML.
-
-### 3. Párrafos (Paragraphs)
-Son utilizafos para poder presentar grandes secciones de texto que describen deetalladamentelas secciones de la documentacion del proyecto
-
-EJEMPLOS:
-
-Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1.
+<h1>📘 Integradora-Practica-3A</h1>
 
 <p>
-Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2.  </p>
+  <b>Control de versiones · Documentación · Desarrollo colaborativo · Respaldo del proyecto</b>
+</p>
 
-Lo que en una pagina utilizariamos la etiqueta < P >
+![Markdown](https://img.shields.io/badge/Markdown-Documentaci%C3%B3n-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Control%20de%20versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Colaboraci%C3%B3n-181717?style=for-the-badge&logo=github&logoColor=white)
 
-tambien podemos aplicar estilos de alineacion:
+![Asignatura](https://img.shields.io/badge/Asignatura-Integradora%20I-6C63FF?style=flat-square)
+![Pr%C3%A1ctica](https://img.shields.io/badge/Pr%C3%A1ctica-3A%20y%2003-2EA44F?style=flat-square)
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-F5A623?style=flat-square)
 
-<p align = left>
-Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). 
-Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). 
-Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho). Este texto pretenece al Parrafo 1 (Derecho).  </p>
+</div>
 
-<p align = center>
-Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado). Este texto pretenece al Parrafo 2 (Centrado).   </p>
+---
 
-<p align = right>
-Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo). Este texto pretenece al Parrafo 3 (Izquierdo).  </p>
+## 🎯 Acerca de la práctica
 
-<p align = justify>
-Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado). Este texto pretenece al Parrafo 4 (Justificado).  </p>
+En esta práctica aprenderemos a utilizar las herramientas de **Git** y **GitHub** para el **control de versiones**, la **documentación**, el **desarrollo colaborativo** y el **respaldo** del Proyecto Integrador de la asignatura **Integradora I**.
 
-### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
-Si el texto que deseamos enfatizar se encuentra en un parrafo podemos utilizar algunos trucos para ubicarlos en la documentación
+> [!NOTE]
+> **Markdown** es el estándar utilizado por Git y GitHub para maquetar la documentación de los proyectos. Gracias a él, usuarios y colaboradores pueden entender fácilmente el contexto y la operación del proyecto.
 
-#### Texto en negrita (BOLD)
-Para poder poner el texto en negrita este debera ser encerrado entre dos *.
+---
 
-EJEMPLO:
-Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+## 📚 Contenido
 
-#### Texto en cursiva (ITALIC)
-Para poder poner el texto en cursiva este debera ser encerrado entre dobles **.
+| # | Sección | ¿Qué aprenderás? |
+|:-:|:--------|:-----------------|
+| 1 | [Encabezados](#encabezados) | Jerarquía de títulos del H1 al H6 |
+| 2 | [Separadores](#separadores) | Divisiones visuales entre secciones |
+| 3 | [Párrafos](#parrafos) | Bloques de texto y alineación |
+| 4 | [Énfasis de texto](#enfasis) | Negrita, cursiva y subrayado |
+| 5 | [Citas y bloques](#citas) | Resaltar instrucciones y código |
+| 6 | [Listas](#listas) | Listas ordenadas y desordenadas |
+| 7 | [Enlaces](#enlaces) | Hipervínculos y correos |
+| 8 | [Tablas](#tablas) | Filas, columnas y celdas fusionadas |
+| 9 | [Imágenes](#imagenes) | Insertar imágenes con texto alternativo |
+| ⚡ | [Hoja de referencia rápida](#referencia) | Resumen de toda la sintaxis |
 
-EJEMPLO:
-Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+> **Práctica 3A** → secciones 1 a 4  ·  **Práctica 03** → secciones 5 a 9
 
+---
 
-#### Texto en negrita cursiva (BOLD/ITALIC)
-Para poder poner el texto en negrita y ademas en cursiva este debera ser encerrado entre triples ***.
+# 🅰️ Práctica 3A
 
-EJEMPLO:
-Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+<a id="encabezados"></a>
+## 1. Encabezados o Títulos (Headers)
 
-#### Subrayado (UNDERLINE)
-Algunas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo estándar de HTMl usando el tag / y cerrando con /
+Para documentar bien un proyecto hay que distribuir el contenido correctamente y **resaltar las secciones importantes**. Los encabezados se crean con el símbolo `#`: a más símbolos, menor jerarquía.
 
-Ejemplo Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Texto Texto</ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Texto Texto</ins> Texto Texto Texto Texto Texto Texto
+**Sintaxis:**
 
-# Integradora-Practica03
-Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación
+```markdown
+# Encabezado de Nivel 1
+## Encabezado de Nivel 2
+### Encabezado de Nivel 3
+#### Encabezado de Nivel 4
+##### Encabezado de Nivel 5
+###### Encabezado de Nivel 6
+```
 
-### 5. Cuadros para códigos o reseñas (BLOCKQUOTES)
-Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (/>)
+| Nivel | Sintaxis | Equivalente en HTML |
+|:-----:|:--------:|:-------------------:|
+| 1 | `#` | `<h1>` |
+| 2 | `##` | `<h2>` |
+| 3 | `###` | `<h3>` |
+| 4 | `####` | `<h4>` |
+| 5 | `#####` | `<h5>` |
+| 6 | `######` | `<h6>` |
 
-EJEMPLO:
-Para listar las carpetas y archivos desde una terminal de sistemas operativos Windows debemos ingresar el comando: c:dir Después oprimimos la tecla "Enter".
+> [!WARNING]
+> Solo existen **6 niveles** dentro de la sintaxis. Con `#######` (7 símbolos) el maquetado será ignorado.
 
-> Aquí se ingresa un conjunto de instrucciones para explicar al usuario, como instalar el software que hemos diseñado.
+<a id="separadores"></a>
+## 2. Separadores (Separators)
 
-También podemos ingresar textos multilínea
+Para marcar una separación más visual entre contenidos se escriben **tres guiones continuos**. Es similar a la etiqueta `<hr>` de HTML.
 
-Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+**Sintaxis:**
 
-Ejemplo: Pasos para Instalar la Base de Datos
+```markdown
+---
+```
 
-> - Descargar MySQL Server del Sitio Oficial
-> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario root
-> - Descargamos el archivo de respaldo de la base de datos (.sql)
-> - Restauramos la Base de Datos Usando el comando *MySQL *
-> - c:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password<respaldo.sql
+**Resultado:**
 
-### 6. Listas Ordenadas y Listas Desordenadas
-Si en nuestra documentación necesitamos incluir información en modo de lista, un elemneto tras otro, podemos hacerlo utilizando los números con un punto decimal si las deseamos ordenadas con un guión medio - si solo queremos una viñeta.
+---
 
-Ejemplo: 
-Para crear tu primer repositorio en GitHub deberás:
+<a id="parrafos"></a>
+## 3. Párrafos (Paragraphs)
 
-1. Contar con cuneta HitHub.
-2. Dar click en el boton: *Nuevo repositorio
-3.Asignarle un Nombre a tu repositorio, por ejemplo: practica03-3b
-4. Asignarle un nivel de privacidad entre}
-    - Públuico: Si quieres que esté disponible para todos los usuarios.
-    - Privado: Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
-5. Definir si incluye un archivo de descripción llamado : READNE.md
-6. Definir si habrá exclusiones de archivo a través del archivo .gitgnore
+Se utilizan para presentar grandes secciones de texto que describen de manera detallada las partes de la documentación. En Markdown basta con dejar una línea en blanco entre un párrafo y otro; también puede usarse la etiqueta HTML `<p>`.
+
+**Sintaxis:**
+
+```markdown
+Este texto pertenece al párrafo 1.
+
+<p>
+Este texto pertenece al párrafo 2.
+</p>
+```
+
+### Alineación de párrafos
+
+También podemos aplicar estilos de alineación con el atributo `align`:
+
+```html
+<p align="left">Texto alineado a la izquierda</p>
+<p align="center">Texto centrado</p>
+<p align="right">Texto alineado a la derecha</p>
+<p align="justify">Texto justificado</p>
+```
+
+**Resultado:**
+
+<p align="left">
+<b>Izquierda:</b> este texto pertenece al párrafo 1. Este texto pertenece al párrafo 1. Este texto pertenece al párrafo 1. Este texto pertenece al párrafo 1.
+</p>
+
+<p align="center">
+<b>Centrado:</b> este texto pertenece al párrafo 2. Este texto pertenece al párrafo 2. Este texto pertenece al párrafo 2. Este texto pertenece al párrafo 2.
+</p>
+
+<p align="right">
+<b>Derecha:</b> este texto pertenece al párrafo 3. Este texto pertenece al párrafo 3. Este texto pertenece al párrafo 3. Este texto pertenece al párrafo 3.
+</p>
+
+<p align="justify">
+<b>Justificado:</b> este texto pertenece al párrafo 4. Este texto pertenece al párrafo 4. Este texto pertenece al párrafo 4. Este texto pertenece al párrafo 4. Este texto pertenece al párrafo 4. Este texto pertenece al párrafo 4.
+</p>
+
+<a id="enfasis"></a>
+## 4. Texto enfatizado (Bold, Italic, Bold/Italic)
+
+Si el texto que deseamos enfatizar se encuentra dentro de un párrafo, podemos utilizar estos recursos:
+
+| Estilo | Sintaxis | Resultado |
+|:-------|:---------|:----------|
+| Cursiva (*italic*) | `*texto*` o `_texto_` | *texto* |
+| Negrita (**bold**) | `**texto**` o `__texto__` | **texto** |
+| Negrita y cursiva (***bold/italic***) | `***texto***` | ***texto*** |
+| Tachado | `~~texto~~` | ~~texto~~ |
+| Subrayado | `<ins>texto</ins>` | <ins>texto</ins> |
+
+> [!TIP]
+> Markdown **no tiene** un atajo para subrayar, por eso se utiliza la etiqueta estándar de HTML `<ins>texto</ins>`.
+
+**Ejemplo en contexto:**
+
+Texto texto texto **negrita** texto texto *cursiva* texto texto ***negrita y cursiva*** texto texto <ins>subrayado</ins> texto texto texto.
+
+---
+
+# 🅱️ Práctica 03
+
+Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación.
+
+<a id="citas"></a>
+## 5. Cuadros para códigos o reseñas (Blockquotes)
+
+Se utilizan para resaltar instrucciones específicas de **instalación**, **configuración** o **inicialización**, o para mostrar secciones de código fuente. Se maquetan iniciando la línea con el símbolo de mayor que `>`.
+
+**Sintaxis:**
+
+```markdown
+> Aquí se ingresa un conjunto de instrucciones para explicar al usuario
+> cómo instalar el software que hemos diseñado.
+```
+
+**Resultado:**
+
+> Aquí se ingresa un conjunto de instrucciones para explicar al usuario cómo instalar el software que hemos diseñado.
+
+También podemos incluir **viñetas** dentro de la cita para enlistar pasos:
+
+> **Pasos para instalar la base de datos**
+>
+> - Descargar MySQL Server del sitio oficial.
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y la contraseña para el usuario `root`.
+> - Descargar el archivo de respaldo de la base de datos (`.sql`).
+> - Restaurar la base de datos con el comando `mysql`:
+>   `"C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql" -u root -p < respaldo.sql`
+
+<details>
+<summary>✨ <b>Extra: alertas de GitHub</b> (clic para ver)</summary>
+
+<br>
+
+GitHub permite resaltar las citas con alertas de colores:
+
+```markdown
+> [!NOTE]
+> Información útil que el usuario debería conocer.
+
+> [!TIP]
+> Consejo para hacer las cosas mejor.
+
+> [!IMPORTANT]
+> Información clave para lograr el objetivo.
+
+> [!WARNING]
+> Contenido que requiere atención inmediata.
+
+> [!CAUTION]
+> Advierte sobre posibles riesgos o consecuencias negativas.
+```
+
+> [!NOTE]
+> Información útil que el usuario debería conocer.
+
+> [!TIP]
+> Consejo para hacer las cosas mejor.
+
+> [!IMPORTANT]
+> Información clave para lograr el objetivo.
+
+> [!WARNING]
+> Contenido que requiere atención inmediata.
+
+> [!CAUTION]
+> Advierte sobre posibles riesgos o consecuencias negativas.
+
+</details>
+
+<a id="listas"></a>
+## 6. Listas ordenadas y desordenadas
+
+Si necesitamos presentar información como una lista, un elemento tras otro, usamos **números con punto** para listas ordenadas y un **guion medio** `-` para listas con viñetas.
+
+**Sintaxis:**
+
+```markdown
+1. Primer paso
+2. Segundo paso
+   - Sub-elemento A
+   - Sub-elemento B
+```
+
+**Ejemplo:** para crear tu primer repositorio en GitHub deberás:
+
+1. Contar con una cuenta de GitHub.
+2. Dar clic en el botón **Nuevo repositorio**.
+3. Asignarle un nombre a tu repositorio, por ejemplo: `practica03-3b`.
+4. Asignarle un nivel de privacidad:
+   - **Público:** si quieres que esté disponible para todos los usuarios.
+   - **Privado:** si deseas que solo quienes tú decidas puedan ver y colaborar en tu proyecto.
+5. Definir si incluirá un archivo de descripción llamado `README.md`.
+6. Definir si habrá exclusiones de archivos a través del archivo `.gitignore`.
 7. Guardar los cambios.
 
-### 7. Ligas(Hipervínvulos)
-Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y que se maquetan utilizando los corchetes [], inmediatamente despues pondrémos la liga de referencia entre parentesis ().
+<a id="enlaces"></a>
+## 7. Ligas (Hipervínculos)
 
-Ejemplo: 
+Las ligas vinculan elementos o referencias del proyecto, dentro o fuera del repositorio. Se maquetan con corchetes `[]` para el texto, seguidos inmediatamente de la dirección entre paréntesis `()`.
+
+**Sintaxis:**
+
+```markdown
+[Texto de la liga](https://www.google.com/)
+
+<https://www.google.com/>
+
+<correo@ejemplo.com>
+```
+
+**Resultado:**
+
 Mi buscador favorito es: [Google](https://www.google.com/).
 
-Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos < >
-#### 8.Tablas (Tabs)
+Si deseamos poner solo la liga directa o un correo electrónico, usamos los símbolos `< >`: <https://github.com/> · <230317@utxicotepec.edu.mx>
 
-Si la documentacion lo requiere podemos presentar informacion en formato de tablas con filas y columnas,
-para maquetarlas podemos utilizar el caracter | para delifitar las columas y - para delimitar
+<a id="tablas"></a>
+## 8. Tablas
 
-**EJEMPLO**
+Podemos presentar información en filas y columnas. Se usa el carácter `|` para delimitar columnas y `-` para la línea de encabezado.
 
-| Encabezado 1 | Encabezado2 | Encabezado 3 | Encabezado4|
-|--------------|-------------|--------------|------------|
-|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
-|Fila 1 Celda 2|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
-| Fila 1 Celda3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+**Sintaxis:**
 
-En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *rowspan* .
+```markdown
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+|:-------------|:------------:|-------------:|
+| Izquierda    |   Centro     |      Derecha |
+```
 
+**Resultado:**
 
-**EJEMPLO**
-| Encabezado 1 | Encabezado2 | Encabezado 3 | Encabezado4|
-|--------------|-------------|--------------|------------|
-|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
-|Fila 2 Celda 2<td colspan=2>Fila 2 Celda 2 | Fila 2 Celda 4|              
-| Fila 3 Celda3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
-|              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
-|              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
-| Fila 6 Celda5|Fila 6 Celda 2|Fila 6 Celda 3|Fila 6 Celda 4|
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|:-------------|:-------------|:-------------|:-------------|
+| Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3 | Fila 1 Celda 4 |
+| Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3 | Fila 2 Celda 4 |
+| Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3 | Fila 3 Celda 4 |
 
-Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas debemos utilizar el estandar de HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en  ellos utilizar la propiedad de  *colspan* y *rowspan*
+### Fusión de celdas
 
-**EJEMPLO:**
+> [!IMPORTANT]
+> Con Markdown puro **no se pueden fusionar** celdas. Para lograrlo se usa el estándar HTML con las etiquetas `<table>`, `<tr>`, `<th>` y `<td>`, junto con las propiedades **`colspan`** (fusionar columnas) y **`rowspan`** (fusionar filas).
+
+<details>
+<summary>🧩 <b>Ver el código HTML de la tabla</b></summary>
+
+```html
+<table>
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+    <th>Encabezado 3</th>
+    <th>Encabezado 4</th>
+  </tr>
+  <tr>
+    <td>Fila 1 Celda 1</td>
+    <td>Fila 1 Celda 2</td>
+    <td>Fila 1 Celda 3</td>
+    <td>Fila 1 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 2 Celda 1</td>
+    <td colspan="3" align="center">Fila 2 Celda 2 (colspan=3)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Fila 3 Celda 1 (rowspan=3)</td>
+    <td>Fila 3 Celda 2</td>
+    <td>Fila 3 Celda 3</td>
+    <td>Fila 3 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 4 Celda 2</td>
+    <td>Fila 4 Celda 3</td>
+    <td>Fila 4 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 5 Celda 2</td>
+    <td>Fila 5 Celda 3</td>
+    <td>Fila 5 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 6 Celda 1</td>
+    <td>Fila 6 Celda 2</td>
+    <td>Fila 6 Celda 3</td>
+    <td>Fila 6 Celda 4</td>
+  </tr>
+</table>
+```
+
+</details>
+
+**Resultado:**
 
 <table>
- <tr>
-  <th>Encabezado 1</th>
- <th>Encabezado 2</th>
- <th>Encabezado 3</th>
- <th>Encabezado 4</th>
-</tr>
- <tr>
-   <td>Fila 1 Celda 1</td>
-  <td>Fila 1 Celda 2</td>
-  <td>Fila 1 Celda 3</td>
-  <td>Fila 1 Celda 4</td>
- </tr>
- 
- <tr>
-   <td>Fila 2 Celda 1</td>
-  <td colspan=3 align="center">Fila 2 Celda 2</td>
- </tr>
-
- <tr>
-  <td rowspan=3> Fila 3 Celda 1</td>
-  <td> Fila 3 Celda 2</td>
-  <td> Fila 3 Celda 3</td>
-  <td> Fila 3 Celda 4</td>
- </tr>
-
-<tr>
-  <td>Fila 4 Celda 2</td>
- <td>Fila 4 Celda 3</td>
- <td>Fila 4 Celda 4</td>
-</tr>
- 
-<tr>
-  <td>Fila 5 Celda 2</td>
- <td>Fila 5 Celda 3</td>
- <td>Fila 5 Celda 4</td>
-</tr>
-
-<tr>
- <td>Fila 6 Celda 1</td> 
- <td>Fila 6 Celda 2</td>
- <td>Fila 6 Celda 3</td>
- <td>Fila 6 Celda 4</td>
-</tr>
-
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+    <th>Encabezado 3</th>
+    <th>Encabezado 4</th>
+  </tr>
+  <tr>
+    <td>Fila 1 Celda 1</td>
+    <td>Fila 1 Celda 2</td>
+    <td>Fila 1 Celda 3</td>
+    <td>Fila 1 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 2 Celda 1</td>
+    <td colspan="3" align="center">Fila 2 Celda 2 (colspan=3)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Fila 3 Celda 1 (rowspan=3)</td>
+    <td>Fila 3 Celda 2</td>
+    <td>Fila 3 Celda 3</td>
+    <td>Fila 3 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 4 Celda 2</td>
+    <td>Fila 4 Celda 3</td>
+    <td>Fila 4 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 5 Celda 2</td>
+    <td>Fila 5 Celda 3</td>
+    <td>Fila 5 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 6 Celda 1</td>
+    <td>Fila 6 Celda 2</td>
+    <td>Fila 6 Celda 3</td>
+    <td>Fila 6 Celda 4</td>
+  </tr>
 </table>
 
-#### 9.Imágenes 
+<a id="imagenes"></a>
+## 9. Imágenes
 
-Ejemplo: 
-Documentación creada por: _**Jennifer Bautista Barrios**_
+Se muestra una imagen escribiendo `!` seguido del **texto alternativo** entre corchetes `[ ]` y, por último, el vínculo de la imagen entre paréntesis `()`. El texto alternativo es una descripción corta equivalente a la información de la imagen.
 
-<230317@utxicotepec.edu.mx>
-Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imágen. Luego escribe el vinculo de la imágen entre paréntesis ().
+**Sintaxis:**
+
+```markdown
+![Texto alternativo](https://ruta-de-la-imagen.com/imagen.jpg)
+```
+
+**Resultado:**
+
+<div align="center">
+
 ![Imagen demostrativa](https://i.pinimg.com/736x/91/93/b1/9193b1011e9954b3f062181a6829351e.jpg)
 
-GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
+</div>
 
+> [!NOTE]
+> GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios (*pull requests*), debates, comentarios y archivos `.md`. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen directamente.
+
+---
+
+<a id="referencia"></a>
+## ⚡ Hoja de referencia rápida
+
+| Elemento | Sintaxis |
+|:---------|:---------|
+| Encabezado | `# Título` · `## Subtítulo` |
+| Separador | `---` |
+| Negrita | `**texto**` |
+| Cursiva | `*texto*` |
+| Negrita y cursiva | `***texto***` |
+| Subrayado | `<ins>texto</ins>` |
+| Cita | `> texto` |
+| Lista con viñetas | `- elemento` |
+| Lista numerada | `1. elemento` |
+| Código en línea | `` `código` `` |
+| Enlace | `[texto](url)` |
+| Imagen | `![alt](url)` |
+
+---
+
+<div align="center">
+
+## 👩‍💻 Autora
+
+Documentación creada por **_Jennifer Bautista Barrios_**
+
+[![Correo](https://img.shields.io/badge/Correo-230317%40utxicotepec.edu.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:230317@utxicotepec.edu.mx)
+
+<sub>Universidad Tecnológica de Xicotepec de Juárez · Integradora I</sub>
+
+<br>
+
+⭐ Si te sirvió este repositorio, ¡déjale una estrella! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Pie de página" width="100%"/>
+
+</div>
