@@ -2,126 +2,119 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1D4ED8&height=220&section=header&text=Jennifer%20Bautista%20Barrios&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudiante%20de%20Integradora%20I%20en%20la%20UT%20Xicotepec&descSize=18&descAlignY=60" alt="Jennifer Bautista Barrios" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=200&section=header&text=Jennifer%20Bautista%20Barrios&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Estudiante%20de%20la%20UT%20Xicotepec&descSize=18&descAlignY=60&animation=fadeIn" alt="Jennifer Bautista Barrios" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Aprendiendo+Git+%26+GitHub;Documentando+con+Markdown;Construyendo+mi+Proyecto+Integrador;Abierta+a+colaborar" alt="Texto animado" />
+<p><i>Aprender, documentar y compartir.</i></p>
 
-<h3>Hola, soy Jennifer 👋</h3>
-
-<p>Estudiante de la Universidad Tecnológica de Xicotepec de Juárez,<br>en crecimiento y apasionada por aprender.</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-USUARIO-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USUARIO)
-[![Correo](https://img.shields.io/badge/Correo-230317%40utxicotepec.edu.mx-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:230317@utxicotepec.edu.mx)
-![Seguidores](https://img.shields.io/github/followers/USUARIO?style=for-the-badge&logo=github&color=0EA5E9&label=Seguidores)
-![Visitas](https://komarev.com/ghpvc/?username=USUARIO&label=Visitas&color=0EA5E9&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/USUARIO)
+[![Correo](https://img.shields.io/badge/Correo-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:230317@utxicotepec.edu.mx)
 
 </div>
+
+<br>
 
 ---
 
 <h2 align="center">Sobre mí</h2>
 
-```text
-$ whoami
-Jennifer Bautista Barrios, estudiante de Integradora I
+<p align="center">
+Soy estudiante de la Universidad Tecnológica de Xicotepec de Juárez.<br>
+Uso Git y GitHub para llevar el control de versiones de mis proyectos<br>
+y Markdown para documentarlos con claridad.
+</p>
 
-$ cat sobre-mi.txt
-estudio:      Universidad Tecnológica de Xicotepec de Juárez
-aprendo:      Git, GitHub, Markdown y MySQL
-trabajo en:   Mi Proyecto Integrador
-me interesa:  Colaborar y practicar el trabajo en equipo
+<table align="center">
+  <tr>
+    <td align="center" width="260"><b>Trabajando en</b><br><sub>Mi Proyecto Integrador<br>de Integradora I</sub></td>
+    <td align="center" width="260"><b>Aprendiendo</b><br><sub>Git, GitHub, Markdown<br>y bases de datos con MySQL</sub></td>
+    <td align="center" width="260"><b>Me interesa</b><br><sub>El desarrollo colaborativo<br>y el trabajo en equipo</sub></td>
+  </tr>
+</table>
 
-$ _
-```
+<br>
 
 ---
 
 <h2 align="center">Habilidades</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
 
-**💻 Lo que uso**
+**Lo que uso**
 
 <sub>Lenguajes y web</sub><br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=38BDF8)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=38BDF8)
+![Markdown](https://img.shields.io/badge/Markdown-0F172A?style=flat-square&logo=markdown&logoColor=38BDF8)
 
 <sub>Control de versiones</sub><br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=38BDF8)
 
 <sub>Bases de datos</sub><br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8)
 
 </td>
     <td width="50%" valign="top">
 
-**🌱 Lo que estoy aprendiendo**
+**Lo que estoy aprendiendo**
 
 <sub>Lenguajes</sub><br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
 
 <sub>Frameworks y plataformas</sub><br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
 
 <sub>Editores y herramientas</sub><br>
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
 
 </td>
   </tr>
 </table>
 
 <!--
-  Más tecnologías para copiar y pegar en la categoría que quieras:
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  Más tecnologías (cámbiales el nombre y el logo si hace falta):
+  ![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=38BDF8)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+  ![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=38BDF8)
+  ![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=38BDF8)
 -->
 
----
-
-<h2 align="center">Mi camino con Git</h2>
-
-```mermaid
-gitGraph
-    commit id: "Inicio"
-    branch documentacion
-    checkout documentacion
-    commit id: "Markdown"
-    commit id: "Practicas"
-    checkout main
-    merge documentacion
-    commit id: "Proyecto Integrador"
-```
+<br>
 
 ---
 
-<h2 align="center">Mi actividad en GitHub</h2>
+<h2 align="center">Actividad en GitHub</h2>
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=1F6FEB&border_radius=12&count_private=true&include_all_commits=true&locale=es" alt="Estadísticas de GitHub" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=donut&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=1F6FEB&border_radius=12&locale=es" alt="Lenguajes más usados" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=21262D&border_radius=10&count_private=true&include_all_commits=true&locale=es">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&bg_color=FFFFFF&title_color=1D4ED8&icon_color=1D4ED8&text_color=334155&border_color=E2E8F0&border_radius=10&count_private=true&include_all_commits=true&locale=es">
+  <img height="185" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=21262D&border_radius=10&count_private=true&include_all_commits=true&locale=es">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=donut&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=21262D&border_radius=10&locale=es">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=donut&langs_count=6&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155&border_color=E2E8F0&border_radius=10&locale=es">
+  <img height="185" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=donut&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=21262D&border_radius=10&locale=es">
+</picture>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=USUARIO&background=0D1117&border=1F6FEB&ring=38BDF8&fire=0EA5E9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de contribuciones" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USUARIO&bg_color=0D1117&color=38BDF8&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=12&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=USUARIO&bg_color=0D1117&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=10&title_color=38BDF8&custom_title=Contribuciones">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=USUARIO&bg_color=FFFFFF&color=1D4ED8&line=1D4ED8&point=0F172A&area=true&area_color=93C5FD&hide_border=true&radius=10&title_color=1D4ED8&custom_title=Contribuciones">
+  <img width="100%" alt="Gráfica de contribuciones" src="https://github-readme-activity-graph.vercel.app/graph?username=USUARIO&bg_color=0D1117&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=10&title_color=38BDF8&custom_title=Contribuciones">
+</picture>
 
 </div>
+
+<br>
 
 ---
 
@@ -130,31 +123,38 @@ gitGraph
 <div align="center">
 
 <a href="https://github.com/USUARIO/Integradora-Practica-3A">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=Integradora-Practica-3A&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=1F6FEB&border_radius=12" alt="Integradora-Practica-3A" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=Integradora-Practica-3A&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=21262D&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=Integradora-Practica-3A&bg_color=FFFFFF&title_color=1D4ED8&icon_color=1D4ED8&text_color=334155&border_color=E2E8F0&border_radius=10">
+  <img alt="Integradora-Practica-3A" src="https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=Integradora-Practica-3A&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=21262D&border_radius=10">
+</picture>
 </a>
+
+<p><sub>Práctica de Integradora I: documentación profesional con Markdown<br>y control de versiones con Git y GitHub.</sub></p>
 
 </div>
 
+<br>
+
 ---
 
-<h2 align="center">Redes sociales</h2>
+<h2 align="center">Contacto</h2>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-USUARIO-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USUARIO)
-[![Correo](https://img.shields.io/badge/Correo-230317%40utxicotepec.edu.mx-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:230317@utxicotepec.edu.mx)
+<p>¿Te interesa colaborar o tienes alguna pregunta? Escríbeme.</p>
+
+[![Correo](https://img.shields.io/badge/230317%40utxicotepec.edu.mx-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:230317@utxicotepec.edu.mx)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/USUARIO)
 
 <!--
-  Si tienes más redes, quita los comentarios y cambia TU_USUARIO:
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TU_USUARIO)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/TU_USUARIO)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
+  Más redes, cambia TU_USUARIO y quita los comentarios:
+  [![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://www.instagram.com/TU_USUARIO)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/TU_USUARIO)
 -->
 
 <br>
 
-<h3><i>Aprender haciendo, documentando y compartiendo.</i></h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1D4ED8&height=110&section=footer" alt="Pie de página" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=90&section=footer" alt="" width="100%"/>
 
 </div>
